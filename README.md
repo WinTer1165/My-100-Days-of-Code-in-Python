@@ -5,5 +5,6 @@ I will try to update new projects that I learn every week. Welp, I am too lazy, 
 
 ##Update 01:
 I have been been lazy recently and couldn't continue my course :p . I have completed upto day 7. I learned about looping, conditions and some functions.
+
 ##Update 02: 10 JUN 2022
 I have completed day 8 and learned about functions. 
