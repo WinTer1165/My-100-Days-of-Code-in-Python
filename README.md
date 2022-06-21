@@ -8,3 +8,6 @@ I have been been lazy recently and couldn't continue my course :p . I have compl
 
 ##Update 02: 10 JUN 2022
 I have completed day 8 and learned about functions. 
+
+##Update 03: 21 JUN 2022
+I have learned a lot about dictionaries. ;)
