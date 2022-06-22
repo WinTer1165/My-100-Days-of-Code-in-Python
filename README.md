@@ -15,3 +15,5 @@ I have learned a lot about dictionaries. ;)
 ##Update 04: 22 JUN 2022
 I made a simple calculator and learned about return function.
 
+##Update 05: 23 JUN 2022
+Completed a simple blackjack game.
