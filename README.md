@@ -11,3 +11,7 @@ I have completed day 8 and learned about functions.
 
 ##Update 03: 21 JUN 2022
 I have learned a lot about dictionaries. ;)
+
+##Update 04: 22 JUN 2022
+I made a simple calculator and learned about return function.
+
