@@ -20,3 +20,6 @@ Completed a simple blackjack game.
 
 ##Update 06: 27 JUN 2022
 I made a new game. But my solution didn't match with Dr. Angela Yu's final code :( I also finished debugging section after a nap :)
+
+##Update 07: 29 JUN 2022
+I completed another version of high low game. But my solution didn't match with Dr. Angela. :(
