@@ -1,7 +1,9 @@
 # My-100-Days-of-Code-in-Python
 I have been learning python recently from udemy(https://www.udemy.com/course/100-days-of-code/). Dr. Angela is a great instructor and she is really providing quality education. 
 
+
 I will try to update new projects that I learn every week. Welp, I am too lazy, I don't even know when I will be able to finish it ;)
+
 
 ##Update 01:
 
