@@ -23,3 +23,7 @@ I made a new game. But my solution didn't match with Dr. Angela Yu's final code 
 
 ##Update 07: 29 JUN 2022
 I completed another version of high low game. But my solution didn't match with Dr. Angela. :(
+
+##Update 08: 30 JUN 2022
+Completed upto day 15.
+
