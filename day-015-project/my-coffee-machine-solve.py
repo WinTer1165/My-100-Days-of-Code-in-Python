@@ -115,14 +115,17 @@ while is_on:
 
     elif user_coffee == "espresso" and resources["water"] > MENU["espresso"]["ingredients"]["water"] and resources["coffee"] > MENU["espresso"]["ingredients"]["coffee"]:
         coffee_machine()
+        profit += 1.5
         continue
 
     elif user_coffee == "latte" and resources["water"] > MENU["latte"]["ingredients"]["water"] and resources["coffee"] > MENU["latte"]["ingredients"]["coffee"] and resources["milk"] > MENU["latte"]["ingredients"]["milk"]:
         coffee_machine()
+        profit += 2.5
         continue
 
     elif user_coffee == "cappuccino" and resources["water"] > MENU["cappuccino"]["ingredients"]["water"] and resources["coffee"] > MENU["cappuccino"]["ingredients"]["coffee"] and resources["milk"] > MENU["cappuccino"]["ingredients"]["milk"]:
         coffee_machine()
+        profit += 3.0
         continue
 
     else:
