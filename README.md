@@ -29,3 +29,6 @@ I completed another version of high low game. But my solution didn't match with 
 ##Update 08: 30 JUN 2022
 Completed upto day 15. Yay!
 
+##Update 09: 02 JUL 2022
+I learned about OOP, thou I didn't get clear concept about it. Hopefully can understand it more in next lesson. I also learned about python packages, I had tons of fun with turtle and pretty table.
+
