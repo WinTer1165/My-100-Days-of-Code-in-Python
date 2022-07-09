@@ -32,7 +32,7 @@ Completed upto day 15. Yay!
 ##Update 09: 02 JUL 2022
 I learned about OOP, thou I didn't get clear concept about it. Hopefully can understand it more in next lesson. I also learned about python packages, I had tons of fun with turtle and pretty table.
 
-##Update 10: 08 JUL 2022
+##Update 10: 07 JUL 2022
 I have been slacking off recently :[ 
 learned more about OOP and built a quiz game with it.
 
