@@ -39,3 +39,5 @@ learned more about OOP and built a quiz game with it.
 ##Update 11: 09 JUL 2022
 Learned more about turtle packages and GUI. I also learned about some fun packages like villains, heroes, colorgram :D
 
+##Update 12: 10 JUL 2022
+Built a turtle race but my solution doesn't match with Dr. Angela D:
