@@ -41,3 +41,6 @@ Learned more about turtle packages and GUI. I also learned about some fun packag
 
 ##Update 12: 10 JUL 2022
 Built a turtle race but my solution doesn't match with Dr. Angela D:
+
+##Update 13: 10 JUL 2022
+My day one of making snake game.
