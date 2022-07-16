@@ -44,3 +44,6 @@ Built a turtle race but my solution doesn't match with Dr. Angela D:
 
 ##Update 13: 10 JUL 2022
 My day one of making snake game.
+
+##Update 14: 16 JUL 2022
+I have completed upto day 24, gonna take some break now. I completed classic snake, pong and some race game. 
